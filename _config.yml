@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Goodman's Notebook"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Goodman"
+name                     : "Badman"
 description              : "An amazing website."
 url                      : "https://ubettercallsaul.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
