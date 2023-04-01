@@ -3,8 +3,6 @@ layout: post
 title:  "Linear Regression with SciPy and PyTorch"
 ---
 
-# Linear Regression with SciPy and PyTorch
-
 ## Create a dataset
 
 
