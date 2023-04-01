@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Linear Regression with SciPy and PyTorch w/ Noise"
+title:  "Linear Regression with SciPy and PyTorch (Noist Data)"
 ---
 
 
-# Linear Regression with SciPy and PyTorch w/ Noise
+# Linear Regression with SciPy and PyTorch (Noisy Data)
 
 ## Create a dataset
 
