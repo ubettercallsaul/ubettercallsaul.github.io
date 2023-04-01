@@ -1,4 +1,9 @@
-# Linear Regression with SciPy and PyTorch
+---
+layout: post
+title:  "Linear Regression using SciPy and PyTorch"
+---
+
+# Linear Regression using SciPy and PyTorch
 
 ## Create a dataset
 
@@ -30,7 +35,7 @@ plt.show()
 
 
     
-![png](2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_3_0.png)
+![fig1]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_3_0.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_3_0.png?raw=true))
     
 
 
@@ -61,7 +66,7 @@ plt.show()
 
 
     
-![png](2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_6_1.png)
+![fig2]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_6_1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_6_1.png?raw=true))
     
 
 
@@ -182,7 +187,7 @@ plt.show()
 
 
     
-![png](2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_16_1.png)
+![fig3]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_16_1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_16_1.png?raw=true))
     
 
 
@@ -227,13 +232,13 @@ plt.show()
 
 
     
-![png](2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_0.png)
+![fig4]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_0.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_0.png?raw=true))
     
 
 
 
     
-![png](2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_1.png)
+![fig5]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_1.png?raw=true))
     
 
 
@@ -293,6 +298,6 @@ plt.show()
 
 
     
-![png](2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_23_0.png)
+![fig6]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_23_0.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_23_0.png?raw=true))
     
 
