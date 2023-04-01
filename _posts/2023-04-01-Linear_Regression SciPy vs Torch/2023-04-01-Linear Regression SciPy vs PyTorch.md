@@ -28,12 +28,8 @@ plt.grid()
 plt.show()
 ```
 
-https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png?raw=true
-https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png
-    
-<img src="[output1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png)" alt="output1" title="test">
 
-![test2](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png?raw=true)
+![output1](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png?raw=true)
 
 
 ## SciPy
@@ -63,7 +59,7 @@ plt.show()
 
 
     
-![output2](output2.png)
+![output2](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output2.png?raw=true)
 
 
 
@@ -169,7 +165,7 @@ plt.show()
 
 
     
-![output3](output3.png)
+![output3](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output3.png?raw=true)
     
 
 
@@ -212,13 +208,13 @@ plt.show()
 
 
     
-![output4](output4.png)
+![output4](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output4.png?raw=true)
     
 
 
 
     
-![output5](output5.png)
+![output5](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output5.png?raw=true)
     
 
 
@@ -278,7 +274,7 @@ plt.show()
 
 
     
-![output6](output6.png)
+![output6](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output6.png?raw=true)
     
     
 ## Discussion
