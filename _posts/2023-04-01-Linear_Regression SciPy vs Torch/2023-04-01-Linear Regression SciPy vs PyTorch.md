@@ -30,7 +30,7 @@ plt.show()
 
 
     
-![png]([Linear_Regression_SciPy_vs_Torch_files/Linear_Regression_SciPy_vs_Torch_3_0.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png))
+![output1](output1.png)
     
 
 
@@ -61,7 +61,7 @@ plt.show()
 
 
     
-![png]([Linear_Regression_SciPy_vs_Torch_files/Linear_Regression_SciPy_vs_Torch_6_1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png))
+![output2](output2.png)
 
 
 
@@ -167,7 +167,7 @@ plt.show()
 
 
     
-![png](Linear_Regression_SciPy_vs_Torch_files/Linear_Regression_SciPy_vs_Torch_15_1.png)
+![output3](output3.png)
     
 
 
@@ -210,13 +210,13 @@ plt.show()
 
 
     
-![png](Linear_Regression_SciPy_vs_Torch_files/Linear_Regression_SciPy_vs_Torch_17_0.png)
+![output4](output4.png)
     
 
 
 
     
-![png](Linear_Regression_SciPy_vs_Torch_files/Linear_Regression_SciPy_vs_Torch_17_1.png)
+![output5](output5.png)
     
 
 
@@ -276,82 +276,10 @@ plt.show()
 
 
     
-![png](Linear_Regression_SciPy_vs_Torch_files/Linear_Regression_SciPy_vs_Torch_22_0.png)
+![output6](output6.png)
     
-
-
-## Test
-
-
-```python
-y_i = 3                             # Some integer between 0 and 20
-X_i = [0.5, 80, 0.004, 0.5, 0.789]  # A 5 dimensional vector
-```
-
-
-```python
-class TwoLayerNet(torch.nn.Module):
-    def __init__(self, D_in, D_out):
-
-        super(TwoLayerNet, self).__init__()
-        self.linear1 = torch.nn.Linear(D_in, D_out)
-
-    def forward(self, x):
-
-        y_pred = self.linear1(x)
-        return y_pred
-
-D_in, D_out = 5, 1
-model = TwoLayerNet(D_in, D_out)
-
-```
-
-
-```python
-epochs = 10
-criterion = torch.nn.MSELoss(reduction='sum')
-optimizer = torch.optim.SGD(model.parameters(), lr=1e-4)
-for epoch in range(epochs):
-    for n, batch in enumerate(batches):
-        X = []
-        y = []
-        for values in batch:
-            X.append(values[0])
-            y.append(values[1])
-        
-        X = torch.from_numpy(np.asarray(X))
-        y = torch.from_numpy(np.asarray(y))
-        # Forward pass: Compute predicted y by passing x to the model
-        optimizer.zero_grad()
-        y_pred = model(X)
-        # Compute and print loss
-        loss = criterion(y_pred, y)
-        if n % 100 == 99:
-            print(n, loss.item())
-
-        # Zero gradients, perform a backward pass, and update the weights.
-        
-        loss.backward()
-        optimizer.step()
-```
-
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    Cell In[18], line 5
-          3 optimizer = torch.optim.SGD(model.parameters(), lr=1e-4)
-          4 for epoch in range(epochs):
-    ----> 5     for n, batch in enumerate(batches):
-          6         X = []
-          7         y = []
     
+## Discussion
 
-    NameError: name 'batches' is not defined
-
-
-
-```python
-
-```
+The NN model was not able to accurately identify the parameters.
+How to improve the accuracy of NN? Is the NN model too simple?
