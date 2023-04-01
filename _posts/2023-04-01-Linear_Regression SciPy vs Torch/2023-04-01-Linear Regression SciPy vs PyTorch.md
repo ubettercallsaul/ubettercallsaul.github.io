@@ -30,7 +30,7 @@ plt.show()
 
 
     
-![output1](ubettercallsaul.github.io/_posts/2023-04-01-Linear_Regression SciPy vs Torch/output1.png)
+<img src="output1.png" alt="output1" title="data">
     
 
 
