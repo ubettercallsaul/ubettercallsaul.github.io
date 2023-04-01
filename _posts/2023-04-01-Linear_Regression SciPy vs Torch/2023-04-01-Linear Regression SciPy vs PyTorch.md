@@ -30,9 +30,9 @@ plt.show()
 
 
     
-<img src="[output1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png)" alt="output1" title="data">
+<img src="[output1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png)" alt="output1" title="test">
 
-![Alt text]([output1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png)?raw=true "Optional Title")
+![test]([output1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png)?raw=true "Optional Title")
 
 
 ## SciPy
