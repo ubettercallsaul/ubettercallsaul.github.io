@@ -28,11 +28,12 @@ plt.grid()
 plt.show()
 ```
 
-
+https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png?raw=true
+https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png
     
 <img src="[output1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png)" alt="output1" title="test">
 
-![test]([output1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png)?raw=true "Optional Title")
+![test2](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png?raw=true)
 
 
 ## SciPy
