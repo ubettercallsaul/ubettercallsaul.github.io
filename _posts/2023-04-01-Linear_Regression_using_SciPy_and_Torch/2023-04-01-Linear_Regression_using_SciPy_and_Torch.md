@@ -35,7 +35,7 @@ plt.show()
 
 
     
-![fig1]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_3_0.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_3_0.png?raw=true))
+![fig1](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_3_0.png?raw=true)
     
 
 
@@ -66,7 +66,8 @@ plt.show()
 
 
     
-![fig2]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_6_1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_6_1.png?raw=true))
+![image](https://user-images.githubusercontent.com/96639732/229319633-b0055815-90bd-4cf0-835d-f15590acc709.png)
+
     
 
 
@@ -142,16 +143,7 @@ print(list(model.parameters()))
     
 
 
-```python
-model.parameters
-```
 
-
-
-
-    <bound method Module.parameters of LinearRegressionModel(
-      (linear): Linear(in_features=1, out_features=1, bias=True)
-    )>
 
 
 
@@ -185,9 +177,10 @@ plt.show()
     intercept: -0.44
     
 
+![image](https://user-images.githubusercontent.com/96639732/229319650-93bf76fc-d732-4504-a04d-718bb218bb18.png)
 
     
-![fig3]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_16_1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_16_1.png?raw=true))
+
     
 
 
@@ -232,13 +225,16 @@ plt.show()
 
 
     
-![fig4]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_0.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_0.png?raw=true))
-    
-
-
 
     
-![fig5]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_1.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_18_1.png?raw=true))
+
+
+
+    
+![image](https://user-images.githubusercontent.com/96639732/229319656-f466ac01-cf38-44d3-a7a0-2d412fe9515d.png)
+
+![image](https://user-images.githubusercontent.com/96639732/229319666-b119d0e0-984a-4554-9396-149669544c4b.png)
+
     
 
 
@@ -298,6 +294,7 @@ plt.show()
 
 
     
-![fig6]([2023-04-01-Linear_Regression_using_SciPy_and_Torch_files/2023-04-01-Linear_Regression_using_SciPy_and_Torch_23_0.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression_using_SciPy_and_Torch/2023-04-01-Linear_Regression_using_SciPy_and_Torch_23_0.png?raw=true))
+![image](https://user-images.githubusercontent.com/96639732/229319670-cbcf96b0-1cad-425a-a1e5-534c8e1c7c9a.png)
+
     
 
