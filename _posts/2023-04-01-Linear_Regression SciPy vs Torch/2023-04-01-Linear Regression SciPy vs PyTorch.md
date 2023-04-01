@@ -31,7 +31,8 @@ plt.show()
 
     
 <img src="output1.png" alt="output1" title="data">
-    
+
+![Alt text](output1.png?raw=true "Optional Title")
 
 
 ## SciPy
