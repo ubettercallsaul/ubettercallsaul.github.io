@@ -30,7 +30,7 @@ plt.show()
 
 
     
-![png](Linear_Regression_SciPy_vs_Torch_files/Linear_Regression_SciPy_vs_Torch_3_0.png)
+![png]([Linear_Regression_SciPy_vs_Torch_files/Linear_Regression_SciPy_vs_Torch_3_0.png](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-01-Linear_Regression%20SciPy%20vs%20Torch/output1.png))
     
 
 
