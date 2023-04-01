@@ -89,7 +89,11 @@ print(f"intercept error: {np.abs(b-res.intercept)/b*100:.2f} %")
     intercept (95%): 9.98 +/- 0.68
     slope error: 0.48 %
     intercept error: 0.19 %
-    
+
+The correct parameters can't be estimated due to the gaussian error in data.
+
+
+
 
 ## PyTorch
 
