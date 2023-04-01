@@ -285,5 +285,6 @@ plt.show()
     
 ## Discussion
 
-The NN model was not able to accurately identify the parameters.
+There is error in parameter estimates coming from the irreducible noise in the data. <br>
+The NN model was not able to accurately identify the parameters. <br>
 How to improve the accuracy of NN? Is the NN model too simple?
