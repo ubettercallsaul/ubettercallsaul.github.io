@@ -1,4 +1,9 @@
-# Curve Fitting using SciPy and PyTorch
+---
+layout: post
+title:  "Curve Fitting using SciPy and PyTorch"
+---
+
+# Curve Fitting using SciPy and PyTorch (Nonlinear Regression)
 
 ## Create a dataset
 
@@ -35,8 +40,7 @@ plt.show()
 
 
     
-![png](2023-04-05-Curve_fitting_using_SciPy_and_Torch_files/2023-04-05-Curve_fitting_using_SciPy_and_Torch_3_0.png)
-    
+![output1](https://user-images.githubusercontent.com/96639732/230232622-cf84be7e-e3ff-44ee-992f-d0be72b476fd.png)
 
 
 ## SciPy
@@ -63,7 +67,7 @@ plt.show()
 
 
     
-![png](2023-04-05-Curve_fitting_using_SciPy_and_Torch_files/2023-04-05-Curve_fitting_using_SciPy_and_Torch_6_0.png)
+![output2](https://user-images.githubusercontent.com/96639732/230232668-ec13dd2e-b1d0-49dd-92ec-ebc7d280179d.png)
     
 
 
@@ -158,7 +162,7 @@ plt.show()
 
 
     
-![png](2023-04-05-Curve_fitting_using_SciPy_and_Torch_files/2023-04-05-Curve_fitting_using_SciPy_and_Torch_14_0.png)
+![output3](https://user-images.githubusercontent.com/96639732/230232700-3c18bfa4-41c9-411e-b2ad-4ca07de13d38.png)
     
 
 
@@ -204,13 +208,13 @@ plt.show()
 
 
     
-![png](2023-04-05-Curve_fitting_using_SciPy_and_Torch_files/2023-04-05-Curve_fitting_using_SciPy_and_Torch_16_0.png)
+![output4](https://user-images.githubusercontent.com/96639732/230232722-9ef770a0-65db-40d4-b142-c308a7ec7443.png)
     
 
 
 
     
-![png](2023-04-05-Curve_fitting_using_SciPy_and_Torch_files/2023-04-05-Curve_fitting_using_SciPy_and_Torch_16_1.png)
+![output5](https://user-images.githubusercontent.com/96639732/230232753-be03c7ad-6497-4a72-9977-0c7bab88af3a.png)
     
 
 
@@ -250,7 +254,7 @@ plt.show()
 
 
     
-![png](2023-04-05-Curve_fitting_using_SciPy_and_Torch_files/2023-04-05-Curve_fitting_using_SciPy_and_Torch_20_0.png)
+![output6](https://user-images.githubusercontent.com/96639732/230232778-b8d59a06-7302-49b9-a378-aa2e122b180a.png)
     
 
 
