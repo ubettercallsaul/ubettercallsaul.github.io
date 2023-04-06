@@ -100,7 +100,7 @@ print(f"c3 error: {np.abs((c3-popt[2])/c3)*100:.2f} %")
 
 ## PyTorch
 
-Define Linear Regression class using Neural Network module that contains a linear function
+Define Regression class using Neural Network module that contains a linear function
 
 
 ```python
