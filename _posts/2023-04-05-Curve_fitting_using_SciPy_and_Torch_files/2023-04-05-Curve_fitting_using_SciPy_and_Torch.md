@@ -100,7 +100,7 @@ print(f"c3 error: {np.abs((c3-popt[2])/c3)*100:.2f} %")
 
 ## PyTorch
 
-Define Regression class using Neural Network module that contains a linear function
+Define Regression class using Neural Network module that contains two linear functions
 
 
 ```python
@@ -139,15 +139,6 @@ Initial point
 ```python
 # Torch Tensor
 xtt = torch.from_numpy(x.reshape(len(x),-1)).to(torch.float32)
-ytt = torch.from_numpy(y.reshape(len(y),-1)).to(torch.float32)
-
-# initial parameters
-# c1_nn, c2_nn, c3_nn = model.parameters()
-# print(c1_nn[0][0].item(), c2_nn[0].item(), c3_nn[0].item())
-
-# print("Initial Parameters")
-# print(f"slope : {a1:.2f}")
-# print(f"intercept: {b1:.2f}")
 
 plt.figure(figsize=(5,4))
 plt.plot(x, y, 'bo', label='Data', alpha=0.8)
