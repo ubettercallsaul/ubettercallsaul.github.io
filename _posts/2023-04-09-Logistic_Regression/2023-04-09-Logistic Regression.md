@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Logistic Regression"
+---
+
 # Basics of Logistic Regression
 
 Logistic regression is one of the most popular classification methods. Its name contains 'regression', but it is popular as a classification method. Why? Let's visit the foundations of logistic regression with a simple example.</br>
@@ -27,8 +32,8 @@ plt.show()
 
 
     
-![png](2023-04-xx-Logistic_Regression_files/2023-04-xx-Logistic_Regression_3_0.png)
-    
+![image](https://user-images.githubusercontent.com/96639732/230798905-642da227-ab4e-4544-835f-6077372153b6.png)
+
 
 
 Let's say you spent X-hours to prepare the exam. What is the probability to pass the exam? The logistic regression can be used to quantify the probability of discrete events at given independent variables.
@@ -113,7 +118,7 @@ plt.show()
 
 
     
-![png](2023-04-xx-Logistic_Regression_files/2023-04-xx-Logistic_Regression_11_0.png)
+![image](https://user-images.githubusercontent.com/96639732/230798918-a394daf7-62c7-4dc9-a36d-e71e4487afdf.png)
     
 
 
@@ -356,7 +361,7 @@ plt.show()
 
 
     
-![png](2023-04-xx-Logistic_Regression_files/2023-04-xx-Logistic_Regression_15_0.png)
+![image](https://user-images.githubusercontent.com/96639732/230798923-a6de0284-299b-4f10-8d2b-a4507af6edc4.png)
     
 
 
@@ -381,7 +386,7 @@ plt.show()
 
 
     
-![png](2023-04-xx-Logistic_Regression_files/2023-04-xx-Logistic_Regression_17_0.png)
+![image](https://user-images.githubusercontent.com/96639732/230798927-637060ff-831b-4bb7-942c-8ee3aff9c77d.png)
     
 
 
