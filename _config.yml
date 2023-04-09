@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "It's all good, man!"
   location         : "Albuquerque, NM"
-  email            : "albuquerque.nm.bettercallsaul(at)gmail.com
+  email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:albuquerque.nm.bettercallsaul@gmail.com"
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
     - label: #"Website"
       icon: #"fas fa-fw fa-link"
       # url: "https://your-website.com"
