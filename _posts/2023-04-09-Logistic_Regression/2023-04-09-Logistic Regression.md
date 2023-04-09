@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Logistic Regression"
+usemathjax: true
 ---
 
 # Basics of Logistic Regression
