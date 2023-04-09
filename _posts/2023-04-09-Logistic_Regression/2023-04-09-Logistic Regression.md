@@ -6,7 +6,7 @@ title:  "Logistic Regression"
 # Basics of Logistic Regression
 
 The math expressions are broken in the github pages. Please see the markdown file in my github repository.
-[CLICK here. md in Github repository]([https://pages.github.com/](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-09-Logistic_Regression/2023-04-09-Logistic%20Regression.md)).
+[CLICK here. md in Github repository](https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/_posts/2023-04-09-Logistic_Regression/2023-04-09-Logistic%20Regression.md)
 
 
 Logistic regression is one of the most popular classification methods. Its name contains 'regression', but it is popular as a classification method. Why? Let's visit the foundations of logistic regression with a simple example.</br>
