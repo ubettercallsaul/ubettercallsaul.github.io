@@ -24,7 +24,7 @@ description              : "It's all good, man."
 url                      : "https://ubettercallsaul.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/Saul%20Goodman.jpg?raw=true"
+teaser                   : "https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/Saul%20Goodman2.jpg?raw=true"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Saul Goodman"
-  avatar           : "https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/Saul%20Goodman.jpg?raw=true"
+  avatar           : "https://github.com/ubettercallsaul/ubettercallsaul.github.io/blob/master/Saul%20Goodman2.jpg?raw=true"
   bio              : "It's all good, man!"
   location         : "Albuquerque, NM"
   email            : "albuquerque.nm.bettercallsaul@gmail.com"
