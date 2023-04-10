@@ -2,7 +2,7 @@
 layout: post
 title:  "Logistic Regression"
 ---
-usemathjax: true
+
 # Basics of Logistic Regression
 
 The math expressions are broken in the github pages. Please see the markdown file in my github repository.
@@ -11,9 +11,9 @@ The math expressions are broken in the github pages. Please see the markdown fil
 Please let me know how to display Math expression in Github pages using Jekyll.
 
 
-Logistic regression is one of the most popular classification methods. Its name contains 'regression', but it is popular as a classification method. Why? Let's visit the foundations of logistic regression with a simple example.</br>
+Logistic regression is one of the most popular classification methods. Its name contains 'regression', but it is popular as a classification method. Why? Let's visit the foundations of logistic regression with a simple example.
 
-A logistic regression is used to to estimate the probability of an event. Suppose you have a dataset of independent variables and corresponding event occurance. For example, a dataset about the hours of studying as the independent variable and pass/fail for exam as the outcome event.</br>
+A logistic regression is used to to estimate the probability of an event. Suppose you have a dataset of independent variables and corresponding event occurance. For example, a dataset about the hours of studying as the independent variable and pass/fail for exam as the outcome event.
 
 | **Hours** |  0.5 | 0.75 |   1  | 1.25 |  1.5 | 1.75 | 1.75 |   2  | 2.25 |  2.5 | 2.75 |   3  | 3.25 |  3.5 |   4  | 4.25 |  4.5 | 4.75 |   5  |  5.5 |
 |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -47,8 +47,10 @@ Let's say you spent X-hours to prepare the exam. What is the probability to pass
 ## Logistic Distribution
 
 The logistic regression starts from the logistic distribution. The CDF is described as
+
 $$F(x,\mu,s) = {1\over 1+e^{-(x-\mu)/s}}$$
-$\mu$ is the mean (location parameter) and *s* is a scale parameter where *s > 0*.</br>
+
+$\mu$ is the mean (location parameter) and *s* is a scale parameter where *s > 0*.
 The CDF can be rewritten as the logistic function as</br>
 $$p(x) = {1\over 1+e^{-{(\beta_0+\beta_1 x)}}} $$
 where $\beta_0=-\mu/s$ (intercept) and $\beta_1=1/s$ (rate parameter).
