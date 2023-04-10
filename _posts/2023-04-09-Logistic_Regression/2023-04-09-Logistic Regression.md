@@ -406,10 +406,14 @@ plt.show()
 There are two false positive and two false negative.
 
 References
+[Logistic distribution](https://en.wikipedia.org/wiki/Logistic_distribution)
 
-https://en.wikipedia.org/wiki/Logistic_distribution
-https://en.wikipedia.org/wiki/Logit
-https://en.wikipedia.org/wiki/Logistic_regression
-https://en.wikipedia.org/wiki/Probit</br>
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
-https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html
+[Logit model](https://en.wikipedia.org/wiki/Logit)
+
+[Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
+
+[Probit](https://en.wikipedia.org/wiki/Probit)
+
+[Scikit-learn Logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+[Scikit-learn Log-loss function](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html)
