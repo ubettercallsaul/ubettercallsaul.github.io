@@ -1,9 +1,8 @@
-usemathjax: true
 ---
 layout: post
 title:  "Logistic Regression"
 ---
-
+usemathjax: true
 # Basics of Logistic Regression
 
 The math expressions are broken in the github pages. Please see the markdown file in my github repository.
