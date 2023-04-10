@@ -291,10 +291,3 @@ defaults:
       share: true
       related: true
       mathjax: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
