@@ -209,8 +209,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Build setting
-markdown: kramdown
 
 # Sass/SCSS
 sass:
@@ -292,3 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      mathjax: true
