@@ -51,18 +51,23 @@ The logistic regression starts from the logistic distribution. The CDF is descri
 $$F(x,\mu,s) = {1\over 1+e^{-(x-\mu)/s}}$$
 
 $\mu$ is the mean (location parameter) and *s* is a scale parameter where *s > 0*.
-The CDF can be rewritten as the logistic function as</br>
+The CDF can be rewritten as the logistic function as
+
 $$p(x) = {1\over 1+e^{-{(\beta_0+\beta_1 x)}}} $$
+
 where $\beta_0=-\mu/s$ (intercept) and $\beta_1=1/s$ (rate parameter).
-Why did we re-write the CDF of logistic distribution to the logistic function? Notice there is a familiar inear model, $\beta_0+\beta_1 x$. As you can probably tell, it is a huge benefit in regression modeling and its interpretation.</br>
+Why did we re-write the CDF of logistic distribution to the logistic function? Notice there is a familiar inear model, $\beta_0+\beta_1 x$. As you can probably tell, it is a huge benefit in regression modeling and its interpretation.
 
 
 ## Optimization
-Now, everything is ready. The dataset (Hours of study and pass/fail result) and the logistic function to connect the dataset and the probability. So, the only unknown is the parameters of the logistic function. We should estimate the parameter values ($\beta{_0}$ and $\beta{_1}$) representing the dataset with the probability model the most by solving an optimization problem.</br>
+Now, everything is ready. The dataset (Hours of study and pass/fail result) and the logistic function to connect the dataset and the probability. So, the only unknown is the parameters of the logistic function. We should estimate the parameter values ($\beta{_0}$ and $\beta{_1}$) representing the dataset with the probability model the most by solving an optimization problem.
 
 The cost function of the optimization problem can be defined with the sum of Log-loss function as below to measure the goodness of fit.
+
 $$Loss(y_k, p_k) = -(y_k \ln (p_k) + (1 - y_k) \ln (1 - p_k))$$
+
 The parameters can be obtained by minimizing the sum of the Log-loss values at the given dataset. This method is equivalent to the popular maximum likelihood estimation (MLE), which is to determine the parameters maximizing the joint likelihood.
+
 $$Likelihood(y_k, p_k) = \prod_{k:y_k=1}p_k\,\prod_{k:y_k=0}(1-p_k)$$
 
 As the optimization algorithm, BFGS is used as the default method in Scikit-learn's logistic regression.
@@ -400,10 +405,11 @@ plt.show()
 
 There are two false positive and two false negative.
 
-References</br>
-https://en.wikipedia.org/wiki/Logistic_distribution</br>
-https://en.wikipedia.org/wiki/Logit</br>
-https://en.wikipedia.org/wiki/Logistic_regression</br>
+References
+
+https://en.wikipedia.org/wiki/Logistic_distribution
+https://en.wikipedia.org/wiki/Logit
+https://en.wikipedia.org/wiki/Logistic_regression
 https://en.wikipedia.org/wiki/Probit</br>
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html</br>
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html
